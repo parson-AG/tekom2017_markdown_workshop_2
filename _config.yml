@@ -1,0 +1,14 @@
+---
+name: md-workshop tekom 2017
+markdown: kramdown
+#baseurl: "/md-workshop"
+baseurl: "/tekom2017_markdown_workshop_2"
+tagung: tekom-Jahrestagung 2017
+
+collections:
+  doc-stories:
+    output: true
+#    permalink: /doc-stories/:path/
+  doc-images:
+    output: true
+#    permalink: /doc-images/:path/

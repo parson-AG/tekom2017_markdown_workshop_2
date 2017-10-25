@@ -1,0 +1,9 @@
+{% if include.var == 'Bewertung' or include.var == 'Erwartung' %}Die {{site.tagung}} bietet viele Veranstaltungen für unterschiedlichste Interessen.  {% if include.var == 'Erwartung' %}Hier schildere ich meine Erwartungen an die Tagung.{% endif %}{% if include.var == 'Bewertung' %}Hier schildere ich meine Erfahrungen von der Tagung.{% endif %}
+{% else %}<div style="color:red">
+Bitte verwenden Sie einen der folgenden Parameter:
+<ul>
+<li>var='Erwartung'</li>
+<li>var='Bewertung'</li>
+</ul>
+</div>
+{% endif %}
