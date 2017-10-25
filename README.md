@@ -1,8 +1,12 @@
 # tekom2017 Markdown Workshop TA09, Do, 26.10.
 
-Repository für die Publikation von Markdown-Dokumentation auf Github Pages: https://parson-ag.github.io/tekom2017_markdown_workshop_2/
+## Invitation Link
+https://github.com/parson-AG/tekom2017_markdown_workshop_2/invitations
 
-Eigene Kopie des Repositorys zum Ausprobieren anlegen:
+## Repository für die Publikation von Markdown-Dokumentation auf Github Pages 
+https://parson-ag.github.io/tekom2017_markdown_workshop_2/
+
+## Eigene Kopie des Repositorys zum Ausprobieren anlegen
 1. Oben rechs auf **Fork** klicken. 
 1. Auf Ihren Benutzernamen klicken.
    Ihr Fork wird angelegt. 
