@@ -1,4 +1,3 @@
-
 ---
 title: Was für Erwartungen habe ich an die tekom?
 author: Rachel Herwartz
