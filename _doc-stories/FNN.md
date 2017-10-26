@@ -1,3 +1,9 @@
+---
+
+title: Tekom - A True Story About GitHub
+author: Me :-)
+---
+
 # Tekom - A True Story About GitHub
 This is normal text, with a little __bold__ formatting. 
 ## This is a header 2
