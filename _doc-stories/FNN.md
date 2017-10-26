@@ -17,8 +17,8 @@ But that was just a bulleted list. What about a numbered list?
 
 And a combination would be great, too.
 1. List entry 1
-* Subitem 1
-* Subitem 2
+   * Subitem 1
+   * Subitem 2
 1. List entry 2
-* Subitem 1
-* Subitem 2
+   * Subitem 1
+   * Subitem 2
