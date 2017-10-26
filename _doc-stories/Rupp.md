@@ -17,4 +17,5 @@ Es stellte sich heraus, dass der verwendete Editor folgende Anforderungen erfül
 ## Lernziele
 ### Rechtssichere Dokumentation
 {{page.author}}
+
 {% include legalNote %}
