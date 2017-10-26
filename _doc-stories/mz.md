@@ -18,5 +18,5 @@ author: MZ
   + 
 Die Zeitpläne sind sehr eng geschitten.
 
-{{page.author}}
-{{site.tagung}}
+{{page.author}}.
+{{site.tagung}}.
