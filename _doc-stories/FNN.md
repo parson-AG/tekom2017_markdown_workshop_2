@@ -1,7 +1,7 @@
 # Tekom - A True Story About GitHub
 This is normal text, with a little __bold__ formatting. 
 ## This is a header 2
-I would like this text ro be shown in *italics*.
+I would like this text to be shown in *italics*.
 
 I have just deliberately created a line break!
 
