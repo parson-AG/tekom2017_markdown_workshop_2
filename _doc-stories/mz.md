@@ -18,5 +18,8 @@ author: MZ
   + 
 Die Zeitpläne sind sehr eng geschitten.
 
+{% include intro var='Bewertung %}
+{% include intro var= 'Erwartung' %}
+
 {{page.author}}.
 {{site.tagung}}.
