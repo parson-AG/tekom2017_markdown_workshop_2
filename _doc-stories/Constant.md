@@ -1,5 +1,5 @@
 ---
-Title: Learning Gitpub
+title: Learning Gitpub
 author: Constant Gordon
 ---
 
