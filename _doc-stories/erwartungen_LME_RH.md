@@ -15,5 +15,6 @@ author: Lieselotte Messner
    * BranchenvertreterInnen treffen
    * Ueber neue Produkte informieren
    
-Mein Arbeitgeber [VASCO Data Security](http://www.vasco.com) ermoeglichte den Besuch der tekom Tagung an beiden Tagen.
+Mein Arbeitgeber [VASCO Data Security](http://www.vasco.com) ermoeglichte den Besuch der {{site.tagung}} an beiden Tagen.
 
+Geschrieben von: {{page.author}}
