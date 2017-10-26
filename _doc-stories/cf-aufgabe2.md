@@ -23,7 +23,7 @@ Jeder hat seine eigenen Tipps zu den besten Referenten, Kaffeeprovidern und ande
 Messenotwendigkeiten.
 * hier probiere ich mal eine Liste
 * und den zweiten Listeneintrag
-  * hier rücke ich meine Liste ein
+* hier rücke ich meine Liste ein
   * nochmal eingerückt
     * dritte Einrückung
     * dritte Einrückung
@@ -31,10 +31,14 @@ Messenotwendigkeiten.
 
 1. hier probiere ich mal eine *geordnete* Liste
 4. und den zweiten Listeneintrag
-  5. hier rücke ich meine Liste ein
-  8. nochmal eingerückt
-    5. dritte Einrückung
-    6. dritte Einrückung
+
+   5. hier rücke ich meine Liste ein  - klappt gar nicht
+   
+   8. nochmal eingerückt
+   
+      5. dritte Einrückung  - klappt auch nicht
+      
+      6. dritte Einrückung
 9. und hier der dritte Listeneintrag
 
 ______________________________________________________________________________________________________________
