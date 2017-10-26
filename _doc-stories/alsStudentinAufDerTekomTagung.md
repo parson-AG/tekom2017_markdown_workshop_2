@@ -1,3 +1,8 @@
+---
+title: Als Studentin auf der Tekom-Tagung
+author: Rebecca Durm
+---
+
 # Als Studentin auf der Tekom-Tagung
 
 Bisher war ich nur als Besucherin auf der Tekom-Tagung. Zur Mitgliedschaft im Tekom-Verein kam ich durch meine Hochschule, die eine führende Hochschule im Bereich technische Kommunikation ist. 
