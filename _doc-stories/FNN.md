@@ -1,5 +1,5 @@
 # Tekom - A True Story About GitHub
-This is normal text, with a little _bold_ formatting. 
+This is normal text, with a little __bold__ formatting. 
 ## This is a header 2
 I would like this text ro be shown in *italics*.
 
@@ -10,3 +10,7 @@ This text is **_bold and italic_**. (Wow!)
 Well, it's probably time for a list.
 * Here's my first entry
 * Here's another one
+
+But that was just a bulleted lidt. What about a numberd list?
+1. List entry 1
+1. List entry 2
