@@ -3,7 +3,7 @@ title: Testing some markdown
 author: perspective2017
 ---
 
-{% include intro var='Notes' %}
+{% include intro var='Erwartung' %}
 
 # Agile software development and documentation
 
