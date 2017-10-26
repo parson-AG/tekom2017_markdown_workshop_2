@@ -1,12 +1,13 @@
-Pressemitteilung zur Jahrestagung
-Die tekom-Jahrestagung expandiert in neue Welten
-(Stuttgart, 29. August 2017) Terminologie, intelligente Information, mobile Dokumentation und 
-viele weitere Themen der Technischen Kommunikation erobern vom 24. bis 26. Oktober 2017 das 
+# Pressemitteilung zur Jahrestagung
+## Die tekom-Jahrestagung expandiert in neue Welten
+(*Stuttgart, 29. August 2017*) Terminologie, intelligente Information, mobile Dokumentation und 
+viele weitere Themen der Technischen Kommunikation erobern vom _24. bis 26. Oktober 2017_ das 
 Internationale Congresscenter Stuttgart (ICS). Dann findet dort die tekom-Jahrestagung mit 
-über 250 Präsentationen, Tutorials und Workshops statt. Die Tagung wird begleitet von der tcworld 
+über 250 Präsentationen, **Tutorials und _Workshops_** statt. Die Tagung wird begleitet von der tcworld 
 Conference sowie der tekom-Messe und gilt als weltweit führendes Branchenereignis für die 
 Technische Kommunikation. Der Fachverband tekom als Veranstalter rechnet mit etwa 4.500 
 Tagungsteilnehmern und Messebesuchern sowie etwa 160 Ausstellern.
+
 Die Tagung zeichnet sich in diesem Jahr durch ein noch breiteres inhaltliches Spektrum 
 als in den vergangenen Jahren aus. Es umfasst Klassiker wie Terminologie, rechtliche Anforderungen, 
 professionelles Schreiben und visuelle Kommunikation, außerdem Trendthemen wie mobile Dokumentation, 
