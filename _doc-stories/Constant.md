@@ -18,3 +18,5 @@ _Tabel 1_
 |and|the|second row|
 |even||more|
 |and now I will be typing to the maximum length, make sure it start wrapping|every table cell will be filled to the max|and we will see the consecuences. But my English may contain errors|
+
+{{site.author}}
