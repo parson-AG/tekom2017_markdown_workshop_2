@@ -1,3 +1,8 @@
+---
+title: Volle Ladung Weiterbildung
+author: Sabine Mahr
+---
+
 ## Volle Ladung Weiterbildung
 Auf der diesjährigen tekom-Tagung gibt es jede Menge spannende Themen wie
 
