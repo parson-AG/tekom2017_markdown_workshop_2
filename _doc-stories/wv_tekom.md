@@ -3,6 +3,8 @@ title: Testing some markdown
 author: perspective2017
 ---
 
+{% include intro var='Notes' %}
+
 # Agile software development and documentation
 
 ## Sprint-based working
@@ -38,3 +40,5 @@ Each article has to a complete story of itself. If there are other [subjects](ht
 | December | Thursday | 14:30 | Munich | 
 
 Autor: {{page.author}}
+
+{% include legalNote %}
