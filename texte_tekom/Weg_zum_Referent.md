@@ -19,8 +19,13 @@ Mit dem Call for Papers werden die Leser aufgefordert, einen Beitrag zu den fest
 
 ## Wissenswert und werbefrei
 Einreichungen haben die besten Chancen, wenn sie folgende vier Kriterien erfüllen:
-Wertvoller Inhalt – das gewählte Thema sollte aktuell und relevant sein, die aufgezeigten Lösungen mit seriösen Methoden ermittelt, ein Einzelaspekt klar fokussiert und praxisbezogen dargestellt werden.
-Werbefreiheit – die Tagungsteilnehmer reagieren empfindlich auf Vertriebs- oder Selbstdarstellungen. Beiträge, die Personen, Produkte oder Firmenerrungenschaften in den Mittelpunkt stellen, haben geringe Chancen. Besser ist eine kurze Vorstellung mit den wesentlichen Informationen. Der Sachbeitrag und die Wirkung des Referenten zählen, sie sind für die Besucher viel interessanter und aussagekräftiger als jede wohlformulierte Eigendarstellung.
-Gut strukturierter Beitrag – wie ist der Beitrag grob strukturiert und welche Methoden kommen zur Anwendung? Nicht jede Einzelheit sollte aufgeführt werden, die Beiräte wollen sich lediglich ein Bild über Aktualität und Güte der Inhalte sowie über die angewandte Vortragsmethode machen. Bei hunderten Einreichungen, die jeder lesen, verstehen und bewerten soll, können zu kurze oder zu lange Gliederungen ein Hindernis sein.
-Anregende und korrekt geschriebene Texte – die lange Einreichungsfrist gibt die Möglichkeit, Beiträge getrennt zu speichern und einzureichen, um den Text korrigieren zu lassen. Dass etwa 80 Prozent der Einreichungen am letzten Tag vor Ablauf der Frist eintreffen, erklärt vielleicht, warum einige Texte den Unmut der Beiräte auf sich ziehen. Ein umständlicher, fehlerhafter oder gar fehlender Text ist schwierig zu verstehen und keine gute Werbung für den Vortrag.
+
+1. Wertvoller Inhalt – das gewählte Thema sollte aktuell und relevant sein, die aufgezeigten Lösungen mit seriösen Methoden ermittelt, ein Einzelaspekt klar fokussiert und praxisbezogen dargestellt werden.
+
+2. Werbefreiheit – die Tagungsteilnehmer reagieren empfindlich auf Vertriebs- oder Selbstdarstellungen. Beiträge, die Personen, Produkte oder Firmenerrungenschaften in den Mittelpunkt stellen, haben geringe Chancen. Besser ist eine kurze Vorstellung mit den wesentlichen Informationen. Der Sachbeitrag und die Wirkung des Referenten zählen, sie sind für die Besucher viel interessanter und aussagekräftiger als jede wohlformulierte Eigendarstellung.
+
+3. Gut strukturierter Beitrag – wie ist der Beitrag grob strukturiert und welche Methoden kommen zur Anwendung? Nicht jede Einzelheit sollte aufgeführt werden, die Beiräte wollen sich lediglich ein Bild über Aktualität und Güte der Inhalte sowie über die angewandte Vortragsmethode machen. Bei hunderten Einreichungen, die jeder lesen, verstehen und bewerten soll, können zu kurze oder zu lange Gliederungen ein Hindernis sein.
+
+4. Anregende und korrekt geschriebene Texte – die lange Einreichungsfrist gibt die Möglichkeit, Beiträge getrennt zu speichern und einzureichen, um den Text korrigieren zu lassen. Dass etwa 80 Prozent der Einreichungen am letzten Tag vor Ablauf der Frist eintreffen, erklärt vielleicht, warum einige Texte den Unmut der Beiräte auf sich ziehen. Ein umständlicher, fehlerhafter oder gar fehlender Text ist schwierig zu verstehen und keine gute Werbung für den Vortrag.
+
 _Quelle: Fachzeitschrift 'technische kommunikation', Ausgabe 4/2014 (gekürzt)_
