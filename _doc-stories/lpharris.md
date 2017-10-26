@@ -5,6 +5,8 @@ author: Lillie
 
 {{page.author}}
 
+{{page.title}}
+
 # Hier probiere ich, in Markdown zu schreiben.
 
 _Hier gibt es einen Untertitel. Wie schön ist er._
