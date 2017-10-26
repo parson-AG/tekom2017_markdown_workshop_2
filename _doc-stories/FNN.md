@@ -28,3 +28,9 @@ What about a link :-) [tekom](http://tekom.de/)
 Hey, markdown is great!
 
 ![Markdown](https://parson-ag.github.io/tekom2017_markdown_workshop_2/doc-images/Markdown-mark.png)
+
+I am a big fan of code. Here is an example:
+'Code Example!'
+
+But this is the best example ever:
+'''Best Example Ever!!!'''
