@@ -3,6 +3,7 @@ title: Wenn die Doku wichtig ist ...
 author: bs
 ---
 
+{% include intro var='Bewertung' %}
 
 # {{page.title}}
 
@@ -36,3 +37,5 @@ Gab's auch:
 | Sorte | Geschmack |
 | -- | -- |
 | hell, stark gehopft | fruchtig, lecker |
+
+{% include legalNote %}
