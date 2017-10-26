@@ -38,3 +38,11 @@ Ein Code-Beispiel würde übrigens so eingefügt werden:
 
 {{page.author}}
 
+Hier ein Include auf einen Haftungshinweise: 
+{% include legalNote %}
+
+Hier ein Include auf ein Intro: 
+{% include intro var='Erwartung' %}
+
+Hier ein Include auf einen Intro mit Bewertung: 
+{% include intro var='Bewertung' %}
