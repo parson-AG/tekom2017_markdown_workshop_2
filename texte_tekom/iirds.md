@@ -1,16 +1,19 @@
 # iiRDS-Standard
 Die Bereitstellung von Nutzungsinformation muss automatisiert werden, damit diese kontextabhängig und individualisiert 
 geschehen kann und sich in Konzepte wie *Industrie 4.0* oder *Internet of Things* integriert.
-Um dieses Ziel zu erreichen fehlte es bislang an einem branchenübergreifend akzeptierten Standard. 
+
+Um dieses Ziel zu erreichen, fehlte es bislang an einem branchenübergreifend akzeptierten Standard. 
 Diese Lücke will die tekom-Arbeitsgruppe "Information 4.0" aus namhaften Vertretern von CMS, Industrieanwendern, 
-Beratern und Wissenschaftlern mit dem tekom-iiRDS (Intelligent Information Request and Delivery Standard) schließen.
-[iiRDS] (https://iirds.tekom.de/)
+Beratern und Wissenschaftlern mit dem tekom-[iiRDS](https://iirds.tekom.de/)(Intelligent Information Request and Delivery Standard) schließen.
+
 Im Rahmen der Tagung wird die tekom nun ausführlich in Vorträgen, Tutorials und Showcases zu diesem Thema informieren.
 Folgende Vorträge sind im Programm:
-iiRDS - Introduction and Status
-Prototype Implementations of iiRDS (showcases)
+
+* iiRDS - Introduction and Status
+* Prototype Implementations of iiRDS (showcases)
 * iiRDS for Technical Writers - Introduction to the Meta Data
 * iiRDS inside out - Applying the Standard
+
 **Mittwoch, 25. Oktober, 8:45 - 18:00 Uhr**
 iiRDS – Introduction and Status
 Ralf Robers
