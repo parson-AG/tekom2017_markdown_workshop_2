@@ -4,7 +4,7 @@ author: bs
 ---
 
 
-# Wenn die Doku wichtig ist ...
+# {{page.title}}
 
 ... darf man als angestellter Technischer Redakteur auch zur tekom-Konferenz. Das ist dann ganz großartig, weil man viele interssante Dinge lernen kann. Davon will ich erzählen.
 
