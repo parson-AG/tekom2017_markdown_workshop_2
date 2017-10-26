@@ -20,3 +20,11 @@ Schön zu erleben ist auch, dass auch andere Menschen mit Okapi usw. arbeiten. N
 * ...
 
 Apropos TMS: OmegaT arbeitet ja ausschließlich lokal. Client-Server-TMS und Open Source geht aber auch, nämlich mit translate5. Das wird entwickelt vom Yoga-Lehrer der tekom.
+
+## Craft-Bier
+
+Gab's auch:
+
+| Sorte | Geschmack |
+| -- | -- |
+| hell, stark gehopft | fruchtig, lecker |
