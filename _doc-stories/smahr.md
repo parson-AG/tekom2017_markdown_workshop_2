@@ -4,7 +4,7 @@ author: Sabine Mahr
 ---
 
 ## Volle Ladung Weiterbildung
-Auf der diesjährigen tekom-Tagung gibt es jede Menge spannende Themen wie
+Auf der {{site.tagung}} gibt es jede Menge spannende Themen wie
 
 * iiRDS
 * Terminologiemanagement
@@ -13,3 +13,5 @@ Auf der diesjährigen tekom-Tagung gibt es jede Menge spannende Themen wie
 Ich war bisher nie auf der Jahrestagung in Stuttgart und bin sehr zufrieden, wie gut der Weg von der [S-Bahn](http://www.vvs.de/)-Station *Messe/Flughafen*  zum Messegelände ausgeschildert ist.
 
 Die Vorträge und Workshops sind fantastisch, ebenso das Mittagessen, weil es leichte Speisen wie Fisch gibt.
+
+{{page.author}}
