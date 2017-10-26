@@ -1,26 +1,43 @@
-Rahmenprogramm
+# Rahmenprogramm
+
 Am Vortag und an den Abenden der Tagung sorgt unser breitgefächertes Rahmenprogramm für Unterhaltung. 
 Hier ist für jeden etwas dabei – zum Besichtigen, Kennenlernen, Probieren, Genießen und für die Kontaktpflege.
+
 Über das Registrierungstool können Sie sich zum Rahmenprogramm anmelden (ab Ende Juli 2017). 
 Falls Sie bereits einen persönlichen Login-Link erhalten haben nutzen Sie bitte diesen. 
-Shakti Naam: Yoga for business
-Kurz entspannen! Mit Energie aufladen! Konzentration stärken!
+
+## Shakti Naam: Yoga for business
+
+* Kurz entspannen!
+* Mit Energie aufladen!
+* Konzentration stärken!
+
 Mit Shakti Naam stärken Sie Ihren Geist und entspannen Sie Ihre Nerven, um sich so mit neuer Energie aufzuladen. Shakti Naam ist eine im Westen sehr neue, in ihren Wurzeln aber sehr alte yogische Technik. Shakti Naam ist sehr entspannend, energetisierend und herausfordernd zugleich. Durch die Art seiner Übungen eignet es sich ideal, um in Businesspausen in Businesskleidung durchgeführt zu werden. Shakti Naam kombiniert auf interessante Weise außergewöhnliche Atemtechniken mit wirkungsvollen Körperübungen.
-Trainer: Marc Mittag
- Seit 20 Jahren Yoga & Meditation; Naam Yoga Lehrer Stufe 3
- Inhaber Mittag QI - Softwareentwicklung für die Übersetzungsbranche
- translate5 development lead; Vertreter von Open Source
-Wann und Wo?
-Dienstag, 24. Oktober 2017
+
+**Trainer:** Marc Mittag
+
+ * Seit 20 Jahren Yoga & Meditation
+ * Naam Yoga Lehrer Stufe 3
+ * Inhaber Mittag QI
+ * Softwareentwicklung für die Übersetzungsbranche
+ * translate5 development lead
+ * Vertreter von Open Source
+ 
+**Wann und Wo?**
+
+| Dienstag, 24. Oktober 2017 | Mittwoch, 25. Oktober 2017 | Donnerstag, 26. Oktober 2017 |
+| --- | --- | --- |
+| 
+
 12:15 - 13:00
 14:00 - 14:45
 15:40 - 16:10
 17:15 - 18:15
-Mittwoch, 25. Oktober 2017
+
 13:30 - 14:15
 15:40 - 16:10
 17:15 - 18:15
-Donnerstag, 26. Oktober 2017
+
 10:40 - 11:10
 12:45 - 13:30
 Wo: Raum C8.1 OG
