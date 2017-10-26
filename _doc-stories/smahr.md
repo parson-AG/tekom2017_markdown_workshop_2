@@ -3,6 +3,8 @@ title: Volle Ladung Weiterbildung
 author: Sabine Mahr
 ---
 
+{% include intro var='Bewertung' %}
+
 ## Volle Ladung Weiterbildung
 Auf der {{site.tagung}} gibt es jede Menge spannende Themen wie
 
