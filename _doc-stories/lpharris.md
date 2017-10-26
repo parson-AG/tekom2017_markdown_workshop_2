@@ -16,4 +16,4 @@ Dieser Abschnitt geht um eine Liste:
 
 Hier ist ein Link:
 
-[BBC News für Engländer, die verloren werden] (https://bbc.co.uk/news)
+[BBC News für Engländer die verloren werden] (http://bbc.co.uk/news)
