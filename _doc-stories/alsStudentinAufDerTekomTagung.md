@@ -23,7 +23,8 @@ Hier das Logo der Firma Parson
 ACHTUNG! Hier dürfen keine Leerzeichen zwischen Bilduntertitel bzw. Ankername und runder Klammer sein. 
 
 Ein Code-Beispiel würde übrigens so eingefügt werden: 
-```<html>
+```
+<html>
   <html-body>
     <p> bla bla bla </p>
   </html-body>
