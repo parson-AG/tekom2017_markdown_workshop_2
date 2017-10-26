@@ -20,4 +20,4 @@ author: Lieselotte Messner, Vienna
 Mein Arbeitgeber [VASCO Data Security](http://www.vasco.com) ermoeglichte den Besuch der {{site.tagung}} an beiden Tagen.
 
 Geschrieben von: {{page.author}}
-{%include legalNote%}
+{% include legalNote %}
