@@ -3,6 +3,8 @@ title: Titel ja Hallo
 author: Lillie
 ---
 
+{{page.author}}
+
 # Hier probiere ich, in Markdown zu schreiben.
 
 _Hier gibt es einen Untertitel. Wie schön ist er._
