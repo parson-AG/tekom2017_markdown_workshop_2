@@ -20,6 +20,7 @@ Die Zeitpläne sind sehr eng geschitten.
 
 {% include intro var='Bewertung' %}
 {% include intro var= 'Erwartung' %}
+{% include legalNote %}
 
 {{page.author}}.
 {{site.tagung}}.
