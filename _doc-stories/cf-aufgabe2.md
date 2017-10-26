@@ -45,4 +45,4 @@ Messenotwendigkeiten.
 
 {% include legalNote %}
 ______________________________________________________________________________________________________________
-![tekom Logo](http://tagungen.tekom.de/fileadmin/templates/doctima/images/tekom_deutschland.png]
+![tekom Logo](http://tagungen.tekom.de/fileadmin/templates/doctima/images/tekom_deutschland.png)
