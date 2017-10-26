@@ -17,5 +17,16 @@ Die Mitarbeiter der Firma [Parson-Europe](https://www.parson-europe.com/de/) geb
 
 Ich freue mich über diesen Workshop und wünsche allen Teilnehmern an der Tagung eine schöne Zeit.
 
-Hier nochmal ein nettes Beispielbild, um auszuprobieren, wie man hier Bilder einfügt: 
+Hier das Logo der Firma Parson 
+
 ![Das Beispielbild](https://www.parson-europe.com/templates/default/site-elements/parson_logo_claim_rgb.svg)
+ACHTUNG! Hier dürfen keine Leerzeichen zwischen Bilduntertitel bzw. Ankername und runder Klammer sein. 
+
+Ein Code-Beispiel würde übrigens so eingefügt werden: 
+```<html>
+  <html-body>
+    <p> bla bla bla </p>
+  </html-body>
+  </html>
+```
+
