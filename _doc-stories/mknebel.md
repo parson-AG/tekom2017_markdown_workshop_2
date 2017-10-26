@@ -6,6 +6,8 @@ author: Marion Knebel
 
 # Alle Jahre wieder
 
+{% include intro var='Bewertung' %}
+
 Jedes Jahr im Herbst ist es wieder so weit, die tekom steht an. Dieses Jahr die {{site.tagung}}.
 
 Als ich das erste Mal die tekom besuchte, war ich noch neu im Geschäft. Es gab unheimlich viel zu sehen und zu hören, abends fiel ich totmüde ins Bett. Zwischendurch schlich ich schüchtern durch die Messe, da ich niemanden kannte und mich kaum an einen Stand traute. Aber ich fuhr mit neuen Eindrücken nach Hause und hatte viel gelernt.
@@ -16,4 +18,4 @@ Einziger Wehrmutstropfen: ich habe mich an Stuttgart gewöhnt und die Messe hat 
 
 Geschrieben von: {{page.author}}
 
-[tekom.de](http://www.tekom.de)
+{% include legalNote %}
