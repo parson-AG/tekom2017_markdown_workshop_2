@@ -16,10 +16,11 @@
 * ...
 
 ## Some more thougts
-Each article has to a complete story of itself. If there are other subjects that missing a new task has to be created and be planned. 
+Each article has to a complete story of itself. If there are other [subjects](http://www.google.de) that missing a new task has to be created and be planned. 
 
 ## next planning meetings
 
 | Month | Day | time | team |
-| :November | :Monday | :10:30: | Tokio |
-| : December | :Thursday | :14:30: | Munich | 
+| --- | --- | :---: | --- |
+| November | Monday | 10:30 | Tokio |
+| December | Thursday | 14:30 | Munich | 
