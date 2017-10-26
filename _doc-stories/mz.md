@@ -17,3 +17,6 @@ author: MZ
 ### Workshops
   + 
 Die Zeitpläne sind sehr eng geschitten.
+
+{{page.author}}
+{{site.tagung}}
