@@ -1,0 +1,7 @@
+{% assign productNameToken = page.url | split: '/' %}
+{% assign productName = productNameToken[2] %}
+{% assign productNameTokenUrl = productName |append: '_' | split: '_' %}
+{% assign productNameResolvedUrl = productNameTokenUrl[0] %}
+{% assign currProductLabel = productNameResolvedUrl | append: '-' | split: "-" %}
+{% capture headingLabel %}{% for word in currProductLabel %}{{ word | capitalize }} {% endfor %}{% endcapture %}
+{% capture hasPageType %}{% case productNameToken[1] %}{% when site.producturl %}productPage{% when site.componenturl %}componentPage{% else %}otherPage{% endcase %}{% endcapture %}

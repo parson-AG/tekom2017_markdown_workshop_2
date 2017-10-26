@@ -1,0 +1,38 @@
+/************************
+Custom styles for parson Github Pages theme
+Last change: 2017-10-19, Make
+Change history:
+- 2019-10-19: Base version, Make
+
+************************/
+
+/*neue Textfarbe*/
+p{
+    color:white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #c9e60d
+}
+
+
+/*Hintergrundbild und -farbe*/
+section{
+    background-color:#597771;
+}
+
+body {
+    background:url(../images/Fotolia_18682005_XS.jpg) 90% 25% no-repeat;
+}
+
+.wrapper {
+    margin-left: 10%;
+}
+
+footer {
+    width:100%
+}
+
+header h1 {
+    color:#3f2240;
+}

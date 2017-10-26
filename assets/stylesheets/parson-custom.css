@@ -1,0 +1,76 @@
+/************************
+Custom styles for parson Github Pages theme
+Last change: 2016-09-30, Make
+Change history:
+- 2019-09-30: Base version, Make
+
+************************/
+
+/*general text color (parson grey)*/
+p{
+    color:#717073;
+}
+
+/*header and banner settings*/
+header{
+    background: white url(../images/tekom_Logo_banner.png) 99% 20% no-repeat;
+    }
+
+/*main heading*/
+header h1{
+    color:#1584af;
+    font-family:"Noto Sans", sans-serif;
+}
+
+/*subtitle*/
+header p{
+    color:#717073;
+}
+
+/*banner colors*/
+#banner{
+    background-color:#717073;
+    border: 1px solid #717073;
+    color:#ccc;
+}
+
+/*text color on banner button*/
+.button a{
+    color:#ccc !important;
+}
+
+/*more settings for banner button*/
+#banner .button{
+    border:1px solid #717073;
+    font-size:14px;
+    line-height:14px;
+    color:black;
+    font-weight:bold;
+    box-shadow:inset 0 0 6px rgba(255, 255, 255, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 1px rgba(0, 0, 0, 0.05);
+    background:#7faddc;
+}
+
+/*remove background image from body*/
+body{
+    background:none;
+    background-color:#ccc;
+}
+
+
+/*style links to sub pages*/
+ul.product-page li:before{
+    content:">";
+    display:inline-block;
+    position:relative;
+    margin-right:10px;
+    color:#C0311A;
+    font-weight:bold;
+}
+
+/*color for all links inside lists, make more specific if necessary*/
+li a{
+    color:#717073;
+}
+
+
+
