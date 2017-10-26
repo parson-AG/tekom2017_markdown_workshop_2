@@ -23,4 +23,4 @@ And a combination would be great, too.
    * Subitem 1
    * Subitem 2
 
-What about a link :-) [tekom](http://tekom.de)
+What about a link :-) [tekom](http://tekom.de/)
