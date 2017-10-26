@@ -12,13 +12,16 @@ Dieser Abschnitt geht um eine Liste:
 
 3. Für eine Komponistin ist Tekom eine ganz neue Welt.
 
-#### Dieser Titel ist nicht so wichtig, deswegen ist es kleiner als der Titel früher.
+# Wichtig.
+
+### Nicht so wichtig.
+
+#### Dieser Titel ist gar nicht so wichtig, deswegen ist es kleiner als die Titel früher.
 
 Hier ist ein Link:
 
 [BBC News für Engländer die verloren sind](http://bbc.co.uk/news/)
 
-www.bbc.co.uk/news
 
 
 ## Linien
