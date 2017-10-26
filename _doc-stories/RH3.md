@@ -1,18 +1,18 @@
 ---
-title: Was für Erwartungen habe ich an die tekom?
+title: Was für Erwartungen habe ich an die {(site.tagung)}?
 author: Rachel Herwartz
 ---
 
 # Erwartungen
 
-**Was für Erwartungen habe ich an die tekom-Tagung?**
+**Was für Erwartungen habe ich an die {(site.tagung)}?**
 1. ...
 2. ...
 3. ...
 
 # Wünsche
 
-**Das wünsche ich mir von der Tagung**
+**Das wünsche ich mir von der {(site.tagung)}**
 
 1. ...
 2. ...
@@ -26,6 +26,8 @@ author: Rachel Herwartz
 2. ...
 3. ...
 
-[tekom-Tagung](http://tagungen.tekom.de/h17/tekom-jahrestagung-2017/)
+[{(site.tagung)}](http://tagungen.tekom.de/h17/tekom-jahrestagung-2017/)
 
 www.tagungen.tekom.de
+
+{(page.author)}
