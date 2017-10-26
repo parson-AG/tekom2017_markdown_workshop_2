@@ -1,3 +1,8 @@
+---
+title: Das ist ein Titel
+author: MZ
+---
+
 # Tekom Stuttgart 2017
 3 Tage Informationen von verschiedenen Ausstellern
 ## Verschiedene Angebote auf der Ausstellung
