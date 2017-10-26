@@ -1,3 +1,8 @@
+---
+title: My first time at Tekom
+author: Lucie Le Naour
+---
+
 # My first time at Tekom
 It's the third day and I must say I cannot really get my brain to work anymore in any language so writing an article is not in the realm of possibilities at this point.
 However!
