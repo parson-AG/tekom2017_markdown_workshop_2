@@ -4,6 +4,8 @@ author: Christina Fehrenbach
 ---
 
 # Tekom-Tagung Oktober 2017
+{% include intro var='Bewertung' %}
+
 Nach einem Jahr in der technischen Doku also zum zweiten Mal auf der tekom-Tagung.
 
 Inzwischen weiß ich mehr darüber, was meine Firma macht, was wir schon können und 
@@ -41,5 +43,6 @@ Messenotwendigkeiten.
       6. dritte Einrückung
 9. und hier der dritte Listeneintrag
 
+{% include legalNote %}
 ______________________________________________________________________________________________________________
 ![tekom Logo](http://tagungen.tekom.de/fileadmin/templates/doctima/images/tekom_deutschland.png]
