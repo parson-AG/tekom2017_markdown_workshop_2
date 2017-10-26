@@ -5,3 +5,6 @@ author: dF
 ---
 
 # Is MarkDown a Markup language?
+
+
+{% include LegalNote %} 
