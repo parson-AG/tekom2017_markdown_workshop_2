@@ -3,6 +3,8 @@ title: Unsere Erwartungen fuer die tekom Tagung
 author: Lieselotte Messner, Vienna
 ---
 
+{% include intro var='Erwartung' %}
+
 # Unsere Erwartungen
 
 1. Austausch
