@@ -15,7 +15,7 @@ Here is a small list of the things I enjoyed in no particular order:
 
 More to come on Parson AG's [blog](https://www.parson-europe.com/de/blog.html).
 
-{%include intro var='Bewertung'%}
+{% include intro var='Bewertung' %}
 
 {{page.author}}
 {{site.tagung}}
