@@ -1,9 +1,11 @@
-tekom-Treffpunkt im Mittelfoyer
+# tekom-Treffpunkt im Mittelfoyer
 Treffen Sie das Team der tekom 
+
 Sie haben Fragen rund um die tekom? Dann sind Sie am tekom-Stand genau
 richtig! Nutzen Sie die Gelegenheit, um sich über die Arbeit der tekom zu
 informieren und mit unseren Mitarbeitern sowie Ehrenamtlichen in persönlichen
 Kontakt zu treten.
+
 tekom-Treffpunkt im Mittelfoyer
 Unser Stand im Mittelfoyer des ICS bietet einen
 Treffpunkt für Mitglieder und Interessenten. Dort
