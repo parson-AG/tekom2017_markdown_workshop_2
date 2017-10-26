@@ -20,9 +20,9 @@ verlieren sich gerne in Details.
 Das sind aber nicht die einzigen Vorteile: Diesmal treffe ich auch Ex-Kolleginnen 
 aus der Lokalisierungswelt, die längst auch den Sprung geschafft haben. 
 Und Dozenten aus Karlsruhe, die berichten über die Vor- und Nachteile des neuen 
-tekom-Zertifizierungssverfahren.
+tekom-Zertifizierungsverfahrens.
 Jeder hat seine eigenen Tipps zu den besten Referenten, Kaffeeprovidern und anderen 
-Messenotwendigkeiten.
+Notwendigkeiten.
 * hier probiere ich mal eine Liste
 * und den zweiten Listeneintrag
 * hier rücke ich meine Liste ein
@@ -34,12 +34,10 @@ Messenotwendigkeiten.
 1. hier probiere ich mal eine *geordnete* Liste
 4. und den zweiten Listeneintrag
    5. hier rücke ich meine Liste ein  - klappt gar nicht
-   
    8. nochmal eingerückt
-   
       5. dritte Einrückung  - klappt auch nicht
       
-      6. dritte Einrückung
+      6. dritte Einrückung - mit leerzeichen davor
 9. und hier der dritte Listeneintrag
 
 {% include legalNote %}
