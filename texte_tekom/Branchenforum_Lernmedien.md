@@ -5,7 +5,7 @@
 #### Inhalte:
 * Grundlagen, Kriterien und Beispiele guter Lernmedien
 * Typische Fehler und Fallen
-* Modernes Lernen via VR-Trainings und intelligenten 
+* Modernes Lernen via VR-Trainings und intelligenten  
 Informationsplattformen
 #### Ihr Mehrwert:
 Sie lernen Ansätze kennen, die Prozesse verständlich und
