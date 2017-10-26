@@ -16,4 +16,4 @@ Ich war bisher nie auf der Jahrestagung in Stuttgart und bin sehr zufrieden, wie
 
 Die Vorträge und Workshops sind fantastisch, ebenso das Mittagessen, weil es leichte Speisen wie Fisch gibt.
 
-*{{page.author}}*
+{{page.author}}
