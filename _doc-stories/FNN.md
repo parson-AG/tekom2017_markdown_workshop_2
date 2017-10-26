@@ -1,5 +1,4 @@
 ---
-
 title: Tekom - A True Story About GitHub
 author: Me :-)
 ---
