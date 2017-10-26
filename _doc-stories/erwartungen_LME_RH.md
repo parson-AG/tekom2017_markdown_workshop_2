@@ -1,5 +1,5 @@
 ---
-title: Unsere Erwartungen fuer die tekom-Tagung
+title: Unsere Erwartungen fuer die {{site.tagung}}
 author: Lieselotte Messner
 ---
 
