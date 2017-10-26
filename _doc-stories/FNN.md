@@ -3,7 +3,7 @@ title: Tekom - A True Story About GitHub
 author: Me :-)
 ---
 
-# Tekom - A True Story About GitHub
+# {{site.tagung}} - A True Story About GitHub
 This is normal text, with a little __bold__ formatting. 
 ## This is a header 2
 I would like this text to be shown in *italics*.
@@ -39,3 +39,5 @@ I am a big fan of code. Here is an example:
 
 But this is the best example ever:
 ```Best Example Ever!!!```
+
+By: {{page.author}}
