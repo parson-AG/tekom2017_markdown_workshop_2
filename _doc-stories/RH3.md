@@ -4,7 +4,7 @@ author: Rachel Herwartz
 ---
 
 # Erwartungen
-{% include into var='Erwartungen' %}
+{% include intro var='Erwartungen' %}
 
 **Was für Erwartungen habe ich an die {{site.tagung}}?**
 1. ...
