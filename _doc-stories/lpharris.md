@@ -1,6 +1,7 @@
 ---
 title: Titel ja Hallo
 author: Lillie
+layout: default
 ---
 
 # {{page.author}}
