@@ -33,6 +33,7 @@ how the entire technical communication community may contibrute to it.
 **iiRDS for Technical Writers – Introduction to the Metadata**
 
 *Ulrike Parson*
+
 *Prof. Dr. Wolfgang Ziegler*
 
 Dynamic content delivery has recently drawn much attention. There is a variety of use cases 
