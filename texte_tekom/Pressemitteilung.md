@@ -9,9 +9,19 @@ Technische Kommunikation. Der Fachverband tekom als Veranstalter rechnet mit etw
 Tagungsteilnehmern und Messebesuchern sowie etwa 160 Ausstellern.
 
 Die Tagung zeichnet sich in diesem Jahr durch ein noch breiteres inhaltliches Spektrum 
+* list item 1
+* list item 2
+  * sublist item 1
+  * sublist item 2
+
 als in den vergangenen Jahren aus. Es umfasst Klassiker wie Terminologie, rechtliche Anforderungen, 
-professionelles Schreiben und visuelle Kommunikation, außerdem Trendthemen wie mobile Dokumentation, 
-Augmented und Virtual Reality, Entwicklerdokumentation, Videotechnik und intelligente Information. 
+professionelles Schreiben und visuelle Kommunikation, außerdem Trendthemen wie:
+* mobile Dokumentation, 
+* Augmented und Virtual Reality, 
+* Entwicklerdokumentation, 
+* Videotechnik und 
+* intelligente Information. 
+
 Der immer engeren Vernetzung der Technischen Kommunikation mit anderen Bereichen wird die 
 Veranstaltung mit einer besonderen Neuheit gerecht: Branchenforen zu den Themen Lernmedien und Servicedokumentation. 
 Sie vermitteln in spannenden Keynotes sowie kompakten Vorträgen, was die Technische Kommunikation und andere 
