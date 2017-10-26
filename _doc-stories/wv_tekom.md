@@ -20,12 +20,12 @@ author: perspective2017
 * step-by-step introduction
 * ...
 
-'''
+´´´
 if ($today)
    read all;
 else
   read tommorow;
-'''
+´´´
 
 ## Some more thougts
 Each article has to a complete story of itself. If there are other [subjects](http://www.google.de) that missing a new task has to be created and be planned. 
