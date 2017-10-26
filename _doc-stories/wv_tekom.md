@@ -1,6 +1,8 @@
 ---
 title: Testing some markdown
 author: perspective2017
+
+theme: default
 ---
 
 {% include intro var='Erwartung' %}
