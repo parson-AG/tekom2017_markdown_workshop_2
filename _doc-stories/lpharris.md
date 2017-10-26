@@ -7,6 +7,9 @@ author: Lillie
 
 {{page.title}}
 
+Die tekom-Jahrestagung 2017 biete viele Veranstaltungen für verschiedlichste interessen. Hier schildere ich meine {%include intro var='Erwartung'%} und meine {%include intro var='Bewertung'%} von der Tagung.
+
+
 # Hier probiere ich, in Markdown zu schreiben.
 
 _Hier gibt es einen Untertitel. Wie schön ist er._
@@ -53,8 +56,4 @@ ___
     1. Zwei punkt zwei punkt eins
 
 
-# Alle Jahre wieder
-
 {%include legalNote%}
-
-Die tekom-Jahrestagung 2017 biete viele Veranstaltungen für verschiedlichste interessen. Hier schildere ich meine {%include intro var='Erwartung'%} und meine {%include intro var='Bewertung'%} von der Tagung.
