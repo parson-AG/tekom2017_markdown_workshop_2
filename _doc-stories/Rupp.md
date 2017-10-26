@@ -1,2 +1,3 @@
 
-# Tekom Tagebuch
+# Erwartungen an die Tekom Tagung
+## Lernziele
