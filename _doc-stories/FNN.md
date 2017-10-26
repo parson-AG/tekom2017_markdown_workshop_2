@@ -24,3 +24,6 @@ And a combination would be great, too.
    * Subitem 2
 
 What about a link :-) [tekom](http://tekom.de/)
+
+Hey, markdown is great!
+![Markdown](https://parson-ag.github.io/tekom2017_markdown_workshop_2/doc-images/Markdown-mark.png)
