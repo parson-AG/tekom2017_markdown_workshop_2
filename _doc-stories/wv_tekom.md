@@ -29,3 +29,5 @@ Each article has to a complete story of itself. If there are other [subjects](ht
 | --- | --- | :---: | --- |
 | November | Monday | 10:30 | Tokio |
 | December | Thursday | 14:30 | Munich | 
+
+Autor: {page.author}
