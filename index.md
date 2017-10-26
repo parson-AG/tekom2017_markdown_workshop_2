@@ -4,7 +4,7 @@ layout: default
 
 # Dr. Jekyll und Mr. Markdown
 
-Workshop auf der tekom Jahrestagung 2017. test
+Workshop auf der tekom Jahrestagung 2017. 
 
 {% include addImage file="Markdown-mark.png" alt="Markdown logo" width="100" %}
 
@@ -26,7 +26,7 @@ Workshop auf der tekom Jahrestagung 2017. test
 
 [Weg zum Referent](texte_tekom/Weg_zum_Referent.md)
 
-<!--{% include listCollection collection="doc-stories" %}-->
+{% include listCollection collection="doc-stories" %}
 
 ---
 [Cheat-Sheet](/refmaterial/markdown_Cheatsheet.md)
