@@ -1,6 +1,6 @@
 ---
 title: Unsere Erwartungen fuer die {{site.tagung}}
-author: Lieselotte Messner
+author: Lieselotte Messner, Vienna
 ---
 
 # Unsere Erwartungen
