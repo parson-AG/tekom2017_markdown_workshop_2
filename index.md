@@ -26,7 +26,7 @@ Workshop auf der tekom Jahrestagung 2017.
 
 [Weg zum Referent](texte_tekom/Weg_zum_Referent.md)
 
-<!--{% include listCollection collection="doc-stories" %}-->
+{% include listCollection collection="doc-stories" %}
 
 ---
 [Cheat-Sheet](/refmaterial/markdown_Cheatsheet.md)
