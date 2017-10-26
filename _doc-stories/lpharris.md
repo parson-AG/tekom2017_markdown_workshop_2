@@ -3,9 +3,9 @@ title: Titel ja Hallo
 author: Lillie
 ---
 
-* {{page.author}}
+# {{page.author}}
 
-* {{page.title}}
+# {{page.title}}
 
 Die tekom-Jahrestagung 2017 biete viele Veranstaltungen für verschiedlichste interessen. Hier schildere ich meine {%include intro var='Erwartung'%} und meine {%include intro var='Bewertung'%} von der Tagung.
 
