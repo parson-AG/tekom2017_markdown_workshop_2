@@ -5,7 +5,7 @@ author: Rebecca Durm
 
 # Als Studentin auf der Tekom-Tagung
 
-Bisher war ich nur als Besucherin auf der Tekom-Tagung. Zur Mitgliedschaft im Tekom-Verein kam ich durch meine Hochschule, die eine führende Hochschule im Bereich technische Kommunikation ist. 
+Bisher war ich nur als Besucherin auf der {{site.tagung}}. Zur Mitgliedschaft im Tekom-Verein kam ich durch meine Hochschule, die eine führende Hochschule im Bereich technische Kommunikation ist. 
 
 Am Anfang meiner Tekom-Mitgliedschaft ging es nur darum, Kugelschreiber, Notizblöcke und Gummibärchen abzuräumen... Das ein oder andere Gespräch war sehr informativ und auch sehr nett, doch im 3. Semester wenig hilfreich, wenn man selbst noch nicht genau weiß, wo man eigentlich hin will, wenn man die Software-Tools nicht kennt und die Anbieter erst recht nicht. 
 
@@ -35,4 +35,6 @@ Ein Code-Beispiel würde übrigens so eingefügt werden:
   </html-body>
   </html>
 ```
+
+{{page.author}}
 
