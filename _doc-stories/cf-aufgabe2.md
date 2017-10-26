@@ -3,7 +3,7 @@ title: Tekom-Tagung Oktober 2017
 author: Christina Fehrenbach
 ---
 
-# Tekom-Tagung Oktober 2017
+# {{site.tagung}} Oktober 2017
 {% include intro var='Bewertung' %}
 
 Nach einem Jahr in der technischen Doku also zum zweiten Mal auf der tekom-Tagung.
