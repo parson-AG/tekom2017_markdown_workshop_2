@@ -4,9 +4,11 @@ author: bs
 ---
 
 
-# Wenn die Doku wichtig ist ...
+# {{page.title}}
 
-... darf man als angestellter Technischer Redakteur auch zur tekom-Konferenz. Das ist dann ganz großartig, weil man viele interssante Dinge lernen kann. Davon will ich erzählen.
+by {{page.author}}
+
+... darf man als angestellter Technischer Redakteur auch zur {{site.tagung}}. Das ist dann ganz großartig, weil man viele interssante Dinge lernen kann. Davon will ich erzählen.
 
 ## Light-Weight Markup Languages
 
@@ -25,7 +27,7 @@ Schön zu erleben ist auch, dass auch andere Menschen mit Okapi usw. arbeiten. N
 * Datei-Encoding ändern
 * ...
 
-Apropos TMS: OmegaT arbeitet ja ausschließlich lokal. Client-Server-TMS und Open Source geht aber auch, nämlich mit translate5. Das wird entwickelt vom Yoga-Lehrer der tekom.
+Apropos TMS: OmegaT arbeitet ja ausschließlich lokal. Client-Server-TMS und Open Source geht aber auch, nämlich mit translate5. Das wird entwickelt vom Yoga-Lehrer der {{site.tagung}}.
 
 ## Craft-Bier
 
