@@ -10,7 +10,11 @@ author: Antje Siemon
 
 Im gestrigen Workshop **A Beginner's Guide to Bootstrap - Getting Started with the Mobile First** auf der **{{site.tagung}}** konnte ich viele neue Ideen sammeln. Der Referent stellte mit erstaunlich leicht verständlichem Englisch *"Bootstrap"* vor. Er erstellte zusammen mit allen Workshop-Teilnehmern ein anschauliches Beispiel.
 
+{% include legalNote %}
 
+{% include intro var='Erwartungen' %}
+
+{% include intro var='Bewertung' %}
 
 
 
