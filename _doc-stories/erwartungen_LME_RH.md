@@ -1,5 +1,5 @@
 ---
-title: Unsere Erwartungen fuer die {{site.tagung}}
+title: Unsere Erwartungen fuer die tekom Tagung
 author: Lieselotte Messner, Vienna
 ---
 
