@@ -4,6 +4,7 @@ author: Rachel Herwartz
 ---
 
 # Erwartungen
+{% inculude into var='Erwartungen' %}
 
 **Was für Erwartungen habe ich an die {(site.tagung)}?**
 1. ...
@@ -31,3 +32,6 @@ author: Rachel Herwartz
 www.tagungen.tekom.de
 
 {(page.author)}
+
+
+{% include legalNote %}
