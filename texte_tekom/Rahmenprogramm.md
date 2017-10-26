@@ -27,12 +27,9 @@ Mit Shakti Naam stärken Sie Ihren Geist und entspannen Sie Ihre Nerven, um sich
 
 | Dienstag, 24. Oktober 2017 | Mittwoch, 25. Oktober 2017 | Donnerstag, 26. Oktober 2017 |
 | --- | --- | --- |
-| 
+| 12:15 - 13:00<br/>14:00 - 14:45<br/>15:40 - 16:10<br/>17:15 - 18:15 | 
 
-12:15 - 13:00
-14:00 - 14:45
-15:40 - 16:10
-17:15 - 18:15
+
 
 13:30 - 14:15
 15:40 - 16:10
